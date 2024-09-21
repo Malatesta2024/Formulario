@@ -1,0 +1,35 @@
+    .header {
+    background-color: #82e0f5;
+    color: white;
+    padding: 0%;
+    text-align: center;
+    }
+
+    body {
+    background-color: hsl(206, 64%, 90%);
+    }
+
+    h1 {
+        color: rgb(5, 5, 176);
+        }
+    h3 {
+    color: rgb(12, 12, 198);
+    }
+
+    label {
+        color: rgb(12, 12, 198);
+    }
+
+    a {
+        color: rgb(231, 124, 10);
+    }
+
+
+    button {
+    background-color: rgb(21, 21, 164);
+    color: rgb(238, 247, 244);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    }

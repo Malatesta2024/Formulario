@@ -1,0 +1,16 @@
+div {
+    border: 1px solid;
+    border: 20px;
+    color: red;
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+    #parrafo1{
+        border: #b7ff00;
+        color: rgb(152, 225, 168);
+        display: grid;
+        flex-direction: column; 
+        width: 80%;
+        opacity: 0.7;
+    }
+}
